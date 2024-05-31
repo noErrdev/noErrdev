@@ -25,27 +25,27 @@ I am a Full Stack Developer with 5+ years of experience in developing enterprise
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
-  <code><img title="Python" height="25" src="images/python-original.svg"></code>
-  <code><img title="Django" height="25" src="images/django.png"></code>
-  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
-  <code><img title="CSS" height="25" src="images/css.svg"></code>
-  <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
-  <code><img title="JQuery" height="25" src="images/jquery-original.svg"></code>
-  <code><img title="SASS" height="25" src="images/sass.svg"></code>
-  <code><img title="PHP" height="25" src="images/php.svg"></code>
-  <code><img title="React" height="25" src="images/react-original.svg"></code>
-  <code><img title="Redux" height="25" src="images/redux.svg"></code>
-  <code><img title="GraphQL" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg"></code>
-  <code><img title="Vue" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"></code>
-  <code><img title="AngularJS" height="25" src="images/angularjs.png"></code>
-  <code><img title="Git" height="25" src="images/git-original.svg"></code>
-  <code><img title="npm" height="25" src="images/npm.svg"></code>
-  <code><img title="Nodejs" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></code>
-  <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
-  <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
-  <code><img title="MongoDB" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"></code>
-  <code><img title="Docker" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"></code>
-  <code><img title="Android" height="25" src="images/android.svg"></code>
-  <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
+  <code><img title="Python" height="30" src="images/python-original.svg"></code>
+  <code><img title="Django" height="30" src="images/django.png"></code>
+  <code><img title="HTML5" height="30" src="images/html5.svg"></code>
+  <code><img title="CSS" height="30" src="images/css.svg"></code>
+  <code><img title="Javascript" height="30" src="images/javascript.svg"></code>
+  <code><img title="JQuery" height="30" src="images/jquery-original.svg"></code>
+  <code><img title="SASS" height="30" src="images/sass.svg"></code>
+  <code><img title="PHP" height="30" src="images/php.svg"></code>
+  <code><img title="React" height="30" src="images/react-original.svg"></code>
+  <code><img title="Redux" height="30" src="images/redux.svg"></code>
+  <code><img title="GraphQL" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg"></code>
+  <code><img title="Vue" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"></code>
+  <code><img title="AngularJS" height="30" src="images/angularjs.png"></code>
+  <code><img title="npm" height="30" src="images/npm.svg"></code>
+  <code><img title="Nodejs" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></code>
+  <code><img title="MySQL" height="30" src="images/mysql.svg"></code>
+  <code><img title="PostgreSQL" height="30" src="images/postgresql.svg"></code>
+  <code><img title="MongoDB" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"></code>
+  <code><img title="Docker" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"></code>
+  <code><img title="Android" height="30" src="images/android.svg"></code>
+  <code><img title="Problem Solving" height="30" src="images/problemSolving.png"></code>
+  <code><img title="Git" height="30" src="images/git-original.svg"></code>
 </p>
 <hr>
