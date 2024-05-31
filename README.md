@@ -2,7 +2,7 @@
 
 ### &nbsp; About Me
 
-I am a senior Full-stack developer.
+I am a senior Full-stack developer who has strong command over both front-end and back-end technologies.
 
 ### &nbsp; My Highlights
 
