@@ -2,7 +2,7 @@
 
 ### &nbsp; About Me
 
-I am a Full Stack Developer with 5+ years of experience in developing enterprise applications and open-source software.
+I am a senior Full-stack developer.
 
 ### &nbsp; My Highlights
 
