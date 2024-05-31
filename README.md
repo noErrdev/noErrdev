@@ -30,6 +30,7 @@ I am a Full Stack Developer with 5+ years of experience in developing enterprise
   <code><img title="HTML5" height="30" src="images/html5.svg"></code>
   <code><img title="CSS" height="30" src="images/css.svg"></code>
   <code><img title="Javascript" height="30" src="images/javascript.svg"></code>
+  <code><img title="Typescript" height="30" src="images/typescript.png"></code>
   <code><img title="JQuery" height="30" src="images/jquery-original.svg"></code>
   <code><img title="SASS" height="30" src="images/sass.svg"></code>
   <code><img title="PHP" height="30" src="images/php.svg"></code>
