@@ -8,18 +8,18 @@ I am a Full Stack Developer with 5+ years of experience in developing enterprise
 
 ### ✨&nbsp; My Highlights
 
-  ✔Front End Development (React, Next.js, Vue.js)
-  ✔End Development (Node, Express, Python, Django, Laravel)
-  ✔Database Management (PostgreSQL, MySQL, MongoDB)
-  ✔API Architectures and Integrations (RESTful API, GraphQL, Google APIs, ChatGPT APIs)
-  ✔CMS (Wordpress, Wordpress themes, plugins, Woocommerce, Shopify)
+  <p>✔Front End Development (React, Next.js, Vue.js)</p>
+  <p>✔End Development (Node, Express, Python, Django, Laravel)</p>
+  <p>✔Database Management (PostgreSQL, MySQL, MongoDB)</p>
+  <p>✔API Architectures and Integrations (RESTful API, GraphQL, Google APIs, ChatGPT APIs)</p>
+  <p>✔CMS (Wordpress, Wordpress themes, plugins, Woocommerce, Shopify)</p>
 
 ### ✨&nbsp; Additional Skills
 
-  ✔Pure Coding (Python, Javascript/Typescript)
-  ✔UI/UX design (Figma, Responsive UI, Bootstrap, TailwindCSS, Material UI)
-  ✔Mobile App Development (React Native, Swift, Flutter)
-  ✔Cloud Platform and Deployment (Docker,  AWS, Azure, Firebase)
+  <p>✔Pure Coding (Python, Javascript/Typescript)</p>
+  <p>✔UI/UX design (Figma, Responsive UI, Bootstrap, TailwindCSS, Material UI)</p>
+  <p>✔Mobile App Development (React Native, Swift, Flutter)</p>
+  <p>✔Cloud Platform and Deployment (Docker,  AWS, Azure, Firebase)</p>
 
 ### ✨&nbsp; Programming Languages, Frameworks and Technologies
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
