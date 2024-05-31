@@ -43,9 +43,14 @@ I am a Full Stack Developer with 5+ years of experience in developing enterprise
   <code><img title="MySQL" height="30" src="images/mysql.svg"></code>
   <code><img title="PostgreSQL" height="30" src="images/postgresql.svg"></code>
   <code><img title="MongoDB" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"></code>
+  <code><img title="Flutter" height="30" src="images/flutter.png"></code>
+  <code><img title="Laravel" height="30" src="images/laravel.png"></code>
+  <code><img title="WordPress" height="30" src="images/wordpress.png"></code>
+  <code><img title="Drupal" height="30" src="images/drupal"></code>
   <code><img title="Docker" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"></code>
   <code><img title="Android" height="30" src="images/android.svg"></code>
   <code><img title="Problem Solving" height="30" src="images/problemSolving.png"></code>
   <code><img title="Git" height="30" src="images/git-original.svg"></code>
+
 </p>
 <hr>
