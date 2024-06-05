@@ -1,7 +1,7 @@
 ### &nbsp; Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
 ### &nbsp; About Me
-
+My name is Filip.
 I am a senior Full-stack developer who has strong command over both front-end and back-end technologies.
 
 ### &nbsp; My Highlights
@@ -10,7 +10,7 @@ I am a senior Full-stack developer who has strong command over both front-end an
   <p>✔End Development (Node, Express, Python, Django, Laravel)</p>
   <p>✔Database Management (PostgreSQL, MySQL, MongoDB)</p>
   <p>✔API Architectures and Integrations (RESTful API, GraphQL, Google APIs, ChatGPT APIs)</p>
-  <p>✔CMS (Wordpress, Wordpress themes, plugins, Woocommerce, Shopify)</p>
+  <p>✔CMS (Wordpress themes, plugins, Woocommerce, Shopify)</p>
 
 ### &nbsp; Additional Skills
 
