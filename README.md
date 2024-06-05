@@ -1,8 +1,8 @@
 ### &nbsp; Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
 ### &nbsp; About Me
-My name is Filip.
-I am a senior Full-stack developer who has strong command over both front-end and back-end technologies.
+<p>My name is Filip.</p>
+<p>I am a senior Full-stack developer who has strong command over both front-end and back-end technologies.</p>
 
 ### &nbsp; My Highlights
 
