@@ -52,3 +52,10 @@
 
 </p>
 <hr>
+<h2 align="center">🔥 Interest 🔥</h2>
+<br>
+<p align="center">
+  <code><img title="Python" height="60" src="images/lego.png"></code>
+  <code><img title="Django" height="60" src="images/chess.png"></code>
+  </p>
+<hr>
