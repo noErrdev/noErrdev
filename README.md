@@ -1,18 +1,16 @@
 ### &nbsp; Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
-### &nbsp; About Me
-<p>My name is Filip.</p>
+<h2 align="center">My name is Filip.</h2>
 <p>I am a senior Full-stack developer who has strong command over both front-end and back-end technologies.</p>
 
-### &nbsp; My Highlights
-
+<h2 align="center">🔥 My highlights 🔥</h2>
   <p>✔Front End Development (React, Next.js, Vue.js)</p>
   <p>✔End Development (Node, Express, Python, Django, Laravel)</p>
   <p>✔Database Management (PostgreSQL, MySQL, MongoDB)</p>
   <p>✔API Architectures and Integrations (RESTful API, GraphQL, Google APIs, ChatGPT APIs)</p>
   <p>✔CMS (Wordpress themes, plugins, Woocommerce, Shopify)</p>
 
-### &nbsp; Additional Skills
+<h2 align="center">🔥 Additional skills 🔥</h2>
 
   <p>✔Pure Coding (Python, Javascript/Typescript)</p>
   <p>✔UI/UX design (Figma, Responsive UI, Bootstrap, TailwindCSS, Material UI)</p>
