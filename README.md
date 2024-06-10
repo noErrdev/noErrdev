@@ -1,6 +1,4 @@
-### &nbsp; Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
-
-<h2 align="center">Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> My name is Filip.</h2>
+<h2 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"> My name is Filip.</h2>
 <p>I am a senior Full-stack developer who has strong command over both front-end and back-end technologies.</p>
 
 <h2 align="center">🔥 My highlights 🔥</h2>
