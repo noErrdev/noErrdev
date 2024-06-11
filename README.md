@@ -7,14 +7,11 @@
   <p>✔Database Management (PostgreSQL, MySQL, MongoDB)</p>
   <p>✔API Architectures and Integrations (RESTful API, GraphQL, Google APIs, ChatGPT APIs)</p>
   <p>✔CMS (Wordpress themes, plugins, Woocommerce, Shopify)</p>
-
 <h2 align="center">🔥 Additional skills 🔥</h2>
-
   <p>✔Pure Coding (Python, Javascript/Typescript)</p>
   <p>✔UI/UX design (Figma, Responsive UI, Bootstrap, TailwindCSS, Material UI)</p>
   <p>✔Mobile App Development (React Native, Swift, Flutter)</p>
   <p>✔Cloud Platform and Deployment (Docker,  AWS, Azure, Firebase)</p>
-
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
