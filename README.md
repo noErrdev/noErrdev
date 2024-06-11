@@ -43,7 +43,7 @@
   <code><img title="Git" height="30" src="images/git-original.svg"></code>
 </p>
 <h2>🔥 Interest 🔥</h2>
-<p align="center">
+<p>
   <code><img title="Lego" height="60" src="images/lego.png"></code>
   <code><img title="Chess" height="60" src="images/chess.png"></code>
   </p>
