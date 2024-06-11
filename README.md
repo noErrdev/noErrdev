@@ -13,7 +13,6 @@
   <p>✔Mobile App Development (React Native, Swift, Flutter)</p>
   <p>✔Cloud Platform and Deployment (Docker,  AWS, Azure, Firebase)</p>
 <h2>🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
-<br>
 <p>
   <code><img title="Python" height="30" src="images/python-original.svg"></code>
   <code><img title="Django" height="30" src="images/django.png"></code>
@@ -42,7 +41,6 @@
   <code><img title="Android" height="30" src="images/android.svg"></code>
   <code><img title="Problem Solving" height="30" src="images/problemSolving.png"></code>
   <code><img title="Git" height="30" src="images/git-original.svg"></code>
-
 </p>
 <hr>
 <h2 align="center">🔥 Interest 🔥</h2>
