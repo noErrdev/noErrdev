@@ -42,9 +42,7 @@
   <code><img title="Problem Solving" height="30" src="images/problemSolving.png"></code>
   <code><img title="Git" height="30" src="images/git-original.svg"></code>
 </p>
-<hr>
-<h2 align="center">🔥 Interest 🔥</h2>
-<br>
+<h2>🔥 Interest 🔥</h2>
 <p align="center">
   <code><img title="Lego" height="60" src="images/lego.png"></code>
   <code><img title="Chess" height="60" src="images/chess.png"></code>
