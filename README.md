@@ -1,18 +1,18 @@
 <h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%"> I am Filip.</h2>
 <p>I am a senior Full-stack developer who has strong command over both front-end and back-end technologies.</p>
 
-<h2>🔥 My highlights 🔥</h2>
+<h2>  My highlights  </h2>
   <p>✔Front End Development (React, Next.js, Vue.js)</p>
   <p>✔End Development (Node, Express, Python, Django, Laravel)</p>
   <p>✔Database Management (PostgreSQL, MySQL, MongoDB)</p>
   <p>✔API Architectures and Integrations (RESTful API, GraphQL, Google APIs, ChatGPT APIs)</p>
   <p>✔CMS (Wordpress themes, plugins, Woocommerce, Shopify)</p>
-<h2>➕ Additional skills ➕</h2>
+<h2>  Additional skills  </h2>
   <p>✔Pure Coding (Python, Javascript/Typescript)</p>
   <p>✔UI/UX design (Figma, Responsive UI, Bootstrap, TailwindCSS, Material UI)</p>
   <p>✔Mobile App Development (React Native, Swift, Flutter)</p>
   <p>✔Cloud Platform and Deployment (Docker,  AWS, Azure, Firebase)</p>
-<h2>💻 Languages & Frameworks & Tools & Abilities 💻</h2>
+<h2>  Languages & Frameworks & Tools & Abilities  </h2>
 <p>
   <code><img title="Python" height="30" src="images/python-original.svg"></code>
   <code><img title="Django" height="30" src="images/django.png"></code>
@@ -42,7 +42,7 @@
   <code><img title="Problem Solving" height="30" src="images/problemSolving.png"></code>
   <code><img title="Git" height="30" src="images/git-original.svg"></code>
 </p>
-<h2>🎨 Interest 🎨</h2>
+<h2>  Interest  </h2>
 <p>
   <code><img title="Lego" height="60" src="images/lego.png"></code>
   <code><img title="Chess" height="60" src="images/chess.png"></code>
