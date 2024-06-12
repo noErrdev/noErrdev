@@ -14,10 +14,10 @@
   <p>✔Cloud Platform and Deployment (Docker,  AWS, Azure, Firebase)</p>
 <h2>  Languages & Frameworks & Tools & Abilities  </h2>
 <p>
-  <code><img title="Python" height="30" src="images/python-original.svg"></code>
-  <code><img title="Django" height="30" src="images/django.png"></code>
-  <code><img title="HTML5" height="30" src="images/html5.svg"></code>
-  <code><img title="CSS" height="30" src="images/css.svg"></code>
+  <code><img title="Python" height="35" src="images/python-original.svg"></code>
+  <code><img title="Django" height="35" src="images/django.png"></code>
+  <code><img title="HTML5" height="38" src="images/html5.svg"></code>
+  <code><img title="CSS" height="42" src="images/css.svg"></code>
   <code><img title="Javascript" height="30" src="images/javascript.svg"></code>
   <code><img title="Typescript" height="30" src="images/typescript.png"></code>
   <code><img title="JQuery" height="30" src="images/jquery-original.svg"></code>
