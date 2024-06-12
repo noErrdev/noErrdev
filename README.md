@@ -1,4 +1,4 @@
-<h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%"> I am Filip.</h2>
+<h2>Welcome to my Git.</h2>
 <p>I am a senior Full-stack developer who has strong command over both front-end and back-end technologies.</p>
 
 <h2>  My highlights  </h2>
