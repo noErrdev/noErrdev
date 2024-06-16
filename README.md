@@ -35,26 +35,56 @@
 #### 🔥Major Programming Languages:
 
   <div align="left">
-    <img src="https://skillicons.dev/icons?i=html" title="html" />
-    <img src="https://skillicons.dev/icons?i=css" title="css" />
-    <img src="https://skillicons.dev/icons?i=jquery" title="jquery" />
-    <img src="https://skillicons.dev/icons?i=js" title="javascript" />
-    <img src="https://skillicons.dev/icons?i=ts" title="typescirpt" />
-    <img src="https://skillicons.dev/icons?i=php" title="php" />
-    <img src="https://skillicons.dev/icons?i=py" title="python" />
+    <img src="https://skillicons.dev/icons?i=html" title="HTML" />
+    <img src="https://skillicons.dev/icons?i=css" title="CSS" />
+    <img src="https://skillicons.dev/icons?i=jquery" title="Jquery" />
+    <img src="https://skillicons.dev/icons?i=js" title="Javascript" />
+    <img src="https://skillicons.dev/icons?i=ts" title="Typescript" />
+    <img src="https://skillicons.dev/icons?i=php" title="PHP" />
+    <img src="https://skillicons.dev/icons?i=python" title="Python" />
   </div>
 
 #### ⛓️Frameworks and Skills:
 
   <div align="left">      
-    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,react,redux,nextjs,vue,nuxtjs,angular" />
-    <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,django,figma,flutter,webflow,wordpress" />
+     <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap"/>
+    <img src="https://skillicons.dev/icons?i=tailwind" title="TailwindCSS"/>
+    <img src="https://skillicons.dev/icons?i=react" title="React"/>
+    <img src="https://skillicons.dev/icons?i=redux" title="Redux"/>
+    <img src="https://skillicons.dev/icons?i=nextjs" title="Next.js"/>
+    <img src="https://skillicons.dev/icons?i=vue" title="Vue.js"/>
+    <img src="https://skillicons.dev/icons?i=nuxtjs" title="Nuxt.js"/>
+    <img src="https://skillicons.dev/icons?i=angular" title="Angular.js"/>
+    <img src="https://skillicons.dev/icons?i=modejs" title="Node.js"/>
+    <img src="https://skillicons.dev/icons?i=express" title="Express.js"/>
+    <img src="https://skillicons.dev/icons?i=laravel" title="Laravel"/>
+    <img src="https://skillicons.dev/icons?i=django" title="Django"/>
+    <img src="https://skillicons.dev/icons?i=figma" title="Figma"/>
+    <img src="https://skillicons.dev/icons?i=webflow" title="Webflow"/>
+    <img src="https://skillicons.dev/icons?i=wordpress" title="Wordpress"/>
+    <img src="https://skillicons.dev/icons?i=drupal" title="Drupal"/>
+    <img src="https://skillicons.dev/icons?i=shopify" title="Shopify"/>
   </div>
   
-#### 🧵Database & Skills:
+#### 🧵Database & DevOps & Deploys:
 
   <div align="left">      
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,graphql,firebase,supabase,postman" />
+    <img src="https://skillicons.dev/icons?i=mysql" title="MySQL"/>
+    <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL"/>
+    <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB"/>
+    <img src="https://skillicons.dev/icons?i=graphql" title="GraphQL"/>
+    <img src="https://skillicons.dev/icons?i=firebase" title="Firebase"/>
+    <img src="https://skillicons.dev/icons?i=supabase" title="Supabase"/>
+    <img src="https://skillicons.dev/icons?i=docker" title="Docker"/>
+    <img src="https://skillicons.dev/icons?i=kubernetes" title="Kubernetes"/>
+    <img src="https://skillicons.dev/icons?i=aws" title="Amazon Web Service"/>
+    <img src="https://skillicons.dev/icons?i=gcp" title="Google Cloud Platform"/>
+    <img src="https://skillicons.dev/icons?i=azure" title="Azure Platform"/>
+    <img src="https://skillicons.dev/icons?i=cloudflare" title="Cloudflare"/>
+    <img src="https://skillicons.dev/icons?i=heroku" title="Heroku"/>
+    <img src="https://skillicons.dev/icons?i=vercel" title="Vercel"/>
+    <img src="https://skillicons.dev/icons?i=github" title="Github"/>
+    <img src="https://skillicons.dev/icons?i=postman" title="Postman"/>
   </div>
 
 #### ⚡️Other Essentials:
