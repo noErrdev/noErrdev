@@ -35,8 +35,13 @@
 #### 🔥Major Programming Languages:
 
   <div align="left">
-    <img src="https://skillicons.dev/icons?i=html,css,jquery,js,ts,threejs,php,py" />
-     <img src="https://skillicons.dev/icons?i=html" title="html" />
+    <img src="https://skillicons.dev/icons?i=html" title="html" />
+    <img src="https://skillicons.dev/icons?i=css" title="css" />
+    <img src="https://skillicons.dev/icons?i=jquery" title="jquery" />
+    <img src="https://skillicons.dev/icons?i=js" title="javascript" />
+    <img src="https://skillicons.dev/icons?i=ts" title="typescirpt" />
+    <img src="https://skillicons.dev/icons?i=php" title="php" />
+    <img src="https://skillicons.dev/icons?i=py" title="python" />
   </div>
 
 #### ⛓️Frameworks and Skills:
