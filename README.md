@@ -55,15 +55,13 @@
     <img src="https://skillicons.dev/icons?i=vue" title="Vue.js"/>
     <img src="https://skillicons.dev/icons?i=nuxtjs" title="Nuxt.js"/>
     <img src="https://skillicons.dev/icons?i=angular" title="Angular.js"/>
-    <img src="https://skillicons.dev/icons?i=modejs" title="Node.js"/>
+    <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js"/>
     <img src="https://skillicons.dev/icons?i=express" title="Express.js"/>
     <img src="https://skillicons.dev/icons?i=laravel" title="Laravel"/>
     <img src="https://skillicons.dev/icons?i=django" title="Django"/>
     <img src="https://skillicons.dev/icons?i=figma" title="Figma"/>
     <img src="https://skillicons.dev/icons?i=webflow" title="Webflow"/>
     <img src="https://skillicons.dev/icons?i=wordpress" title="Wordpress"/>
-    <img src="https://skillicons.dev/icons?i=drupal" title="Drupal"/>
-    <img src="https://skillicons.dev/icons?i=shopify" title="Shopify"/>
   </div>
   
 #### 🧵Database & DevOps & Deploys:
