@@ -3,7 +3,7 @@
 <h1 align = "left">
   Hi, there. <img src="https://github.com/devtech77snake/devtech77snake/blob/main/wave.gif" width="30" />
 </h1>
-Welcome to my Git :heart:
+### Welcome to my Git :heart:
 <p>My name is Filip Radjenovic. I am a senior full stack developer over 5 years of experience and my goal is to be  </p>
 
 #### Web Development
