@@ -86,14 +86,7 @@
     <img src="https://skillicons.dev/icons?i=github" title="Github"/>
     <img src="https://skillicons.dev/icons?i=postman" title="Postman"/>
   </div>
-
-#### ⚡️Other Essentials:
-
-  <div align="left">      
-    <img src="https://skillicons.dev/icons?i=git,gitlab,github,powershell,linux,bash,docker,kubernetes,nginx,heroku,netlify,vercel,cloudflare,aws,gcp,azure,ai,bots" />
-  </div>
-</div>
-
+  
 #### 🎨Interests:
 <p>
   <code><img title="Lego" height="60" src="images/lego.png"></code>
