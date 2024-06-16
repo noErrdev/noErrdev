@@ -5,7 +5,7 @@
 
   ### Welcome to my Git :heart:
 </h1>
-<p>My name is Filip Radjenovic. I am a senior full stack developer over 5 years of experience and my goal is to be  </p>
+<p>My name is Filip Radjenovic. With over 5 years of experience as a senior full stack developer, my goal is to become a skilled developer for my clients and agency, as well as a valuable contributor to Github.</p>
 
 #### Web Development
 
