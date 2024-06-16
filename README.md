@@ -32,7 +32,7 @@
 
 <div>
 
-#### 🔥Major Programming Languages:
+#### ⚒Basic Programming Languages:
 
   <div align="left">
     <img src="https://skillicons.dev/icons?i=html" title="HTML" />
@@ -44,7 +44,7 @@
     <img src="https://skillicons.dev/icons?i=python" title="Python" />
   </div>
 
-#### ⛓️Frameworks and Skills:
+#### 🛒Frameworks and Skills:
 
   <div align="left">      
      <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap"/>
@@ -64,7 +64,7 @@
     <img src="https://skillicons.dev/icons?i=wordpress" title="Wordpress"/>
   </div>
   
-#### 🧵Database & DevOps & Deploys:
+#### 🎲Database & DevOps & Deploys:
 
   <div align="left">      
     <img src="https://skillicons.dev/icons?i=mysql" title="MySQL"/>
