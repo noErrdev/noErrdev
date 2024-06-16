@@ -36,6 +36,7 @@
 
   <div align="left">
     <img src="https://skillicons.dev/icons?i=html,css,jquery,js,ts,threejs,php,py" />
+     <img src="https://skillicons.dev/icons?i=html" title="html" />
   </div>
 
 #### ⛓️Frameworks and Skills:
