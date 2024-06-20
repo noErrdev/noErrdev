@@ -7,26 +7,36 @@
 </h1>
 <p>My name is Filip Radjenovic. With over 5 years of experience as a senior full stack developer, my goal is to become a skilled developer for my clients and agency, as well as a valuable contributor to Github.</p>
 
-#### Web Development
+```yaml
+name: FIlip Radjenovic
+located_in: Novi Sad, Serbia
+current_job: Full Stack Developer
+education:
+  [
+    "Bachelor's in Computer Science",
+  ]
+company: Levi9
 
--   Basic: JavaScript, TypeScript, Python
--   Front-End: React.js, Next.js, Redux Toolkit, AngularJS, Vue.js, Nuxt.js
--   Back-End: Node.js, Express.js, Nest.js, Python, Django, Laravel
--   CMS: Wordpress, Drupal, Shopify
--   Database: MySQL, PostgreSQL, MongoDB
--   Tools: Jira, Trello
-
-#### DevOps Engineering
-
--   Docker, Kubernetes, Ngnix, GitHub
--   Amazon Web Services(AWS Lambda, API Gateway, EC2, S3, EKS, ECS, Secret Manager, SNS, SES, Route53, AWS RDS, DynamoDB, etc)
--   Google Cloud Platform
--   Microsoft Azure
-
-
-<p>I can't acclimate with 99.(9)%, Only by sending 100% perfect project my Clients!</p>
-<p></p>
-
+technical_skills:
+  [
+    Basic: ["JavaScript", TypeScript, Python
+    Basic: ["JavaScript", "TypeScript", "Python"]
+    Front-End: ["JavaScript", "React.js", "Next.js", "Redux Toolkit", "Angular", "Vue", "Nuxt"]
+    Back-End: ["Node.js", "Express.js", "Nest.js", "Djanog", "Laravel"]
+    CMS: ["Wordpress", "Drupal", "Shopify"]
+    Database: ["MySQL", "PostgreSQL", "MongoDB"]
+    DevOps: ["AWS", "Docker", "GCP", "Azure", "Kubernetes"]
+    Tools: ["JIRA", "Trello", "Slack"]
+  ]
+technical_background:
+  [
+    "Full Stack Developer"
+    "DevOps Solutions Architect",
+  ]
+My development philosophy: ["I can't acclimate with 99.(9)%, Only by sending 100% perfect project my Clients!"]
+2024 Goals: ["Create 10+ Projects and learn at least 5 new Technologies."]
+hobbies: ["Chess", "LEGO building", "Tennis", "History"]
+```
 <!-- Skills Section -->
 <h2 align="left">🚀Skills🚀</h2>
 
