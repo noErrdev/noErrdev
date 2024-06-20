@@ -19,10 +19,9 @@ company: Levi9
 
 technical_skills:
   [
-    Basic: ["JavaScript", TypeScript, Python
     Basic: ["JavaScript", "TypeScript", "Python"]
     Front-End: ["JavaScript", "React.js", "Next.js", "Redux Toolkit", "Angular", "Vue", "Nuxt"]
-    Back-End: ["Node.js", "Express.js", "Nest.js", "Djanog", "Laravel"]
+    Back-End: ["Node.js", "Express.js", "Nest.js", "Django", "Laravel"]
     CMS: ["Wordpress", "Drupal", "Shopify"]
     Database: ["MySQL", "PostgreSQL", "MongoDB"]
     DevOps: ["AWS", "Docker", "GCP", "Azure", "Kubernetes"]
