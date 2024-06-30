@@ -5,11 +5,11 @@
 
   ### Welcome to my Git :heart:
 </h1>
-<p>My name is Filip Radjenovic. With over 5 years of experience as a senior full stack developer, my goal is to become a skilled developer for my clients and agency, as well as a valuable contributor to Github.</p>
+<p>My name is Oleksandr. With over 10 years of experience as a senior full stack developer, my goal is to become a skilled developer for my clients and agency, as well as a valuable contributor to Github.</p>
 
 ```yaml
-name: Filip Radjenovic
-located_in: Novi Sad, Serbia
+name: Oleksandr Obronchosh
+located_in: Poltava, Ukraine
 current_job: Full Stack Developer
 education:
   [
