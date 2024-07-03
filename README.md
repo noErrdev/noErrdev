@@ -8,14 +8,14 @@
 <p>My name is Oleksandr. With over 10 years of experience as a senior full stack developer, my goal is to become a skilled developer for my clients and agency, as well as a valuable contributor to Github.</p>
 
 ```yaml
-name: Oleksandr Obronchosh
-located_in: Poltava, Ukraine
+name: Filip Tanaka
+located_in: Tokyo, Japan
 current_job: Full Stack Developer
 education:
   [
     "Bachelor's in Computer Science",
   ]
-company: Levi9
+company: Freelancer
 
 technical_skills:
   [
