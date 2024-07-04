@@ -8,15 +8,14 @@
 <p>My name is Filip. With over 10 years of experience as a senior full stack developer, my goal is to become a skilled developer for my clients and agency, as well as a valuable contributor to Github.</p>
 
 ```yaml
-name: Filip Tanaka
-located_in: Tokyo, Japan
+name: Oeksandr
+located_in: Poltava, Ukraine
 current_job: Full Stack Developer
 education:
   [
     "Bachelor's in Computer Science",
   ]
 company: Freelancer
-
 technical_skills:
   [
     Basic: ["JavaScript", "TypeScript", "Python"]
