@@ -9,7 +9,6 @@
 
 ```yaml
 name: Oleksandr
-located_in: Poltava, Ukraine
 current_job: Full Stack Developer
 education:
   [
