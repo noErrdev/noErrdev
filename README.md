@@ -32,7 +32,7 @@ technical_background:
   ]
 my development philosophy: ["I can't acclimate with 99.(9)%, Only by sending 100% perfect project my Clients!"]
 2024 Goals: ["Create 10+ Projects and learn at least 5 new Technologies."]
-hobbies: ["Chess", "LEGO building", "Tennis", "History"]
+hobbies: ["Chess", "LEGO building", "Swimming", "Sketching"]
 ```
 <!-- Skills Section -->
 <h2 align="left">🚀Skills🚀</h2>
