@@ -8,7 +8,7 @@
 <p>With over 10 years of experience as a senior full stack developer, my goal is to become a skilled developer for my clients and agency, as well as a valuable contributor to Github.</p>
 
 ```yaml
-name: Oleksandr
+
 current_job: Full Stack Developer
 education:
   [
@@ -17,8 +17,8 @@ education:
 company: Freelancer
 technical_skills:
   [
-    Basic: ["JavaScript", "TypeScript", "Python"]
-    Front-End: ["JavaScript", "React.js", "Next.js", "Redux Toolkit", "Angular", "Vue", "Nuxt"]
+    Basic: ["JavaScript", "TypeScript", "Python", "PHP"]
+    Front-End: ["React.js", "Next.js", "Redux Toolkit", "Angular", "Vue", "Nuxt"]
     Back-End: ["Node.js", "Express.js", "Nest.js", "Django", "Laravel"]
     CMS: ["Wordpress", "Drupal", "Shopify"]
     Database: ["MySQL", "PostgreSQL", "MongoDB"]
