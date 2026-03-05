@@ -5,7 +5,7 @@
 
   ### Welcome to my Git :heart:
 </h1>
-<p>With over 10 years of experience as a senior full stack developer, my goal is to become a valuable contributor to Github.</p>
+<p>Over 10 years of experience as a software engineer, my goal is to become a valuable contributor to Github.</p>
 
 ```yaml
 
