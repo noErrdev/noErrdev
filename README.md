@@ -14,12 +14,11 @@ education:
   [
     "Bachelor's in Computer Science",
   ]
-company: Freelancer
 technical_skills:
   [
-    Basic: ["JavaScript", "TypeScript", "Python", "PHP"]
-    Front-End: ["React.js", "Next.js", "Redux Toolkit", "Angular", "Vue", "Nuxt"]
-    Back-End: ["Node.js", "Express.js", "Nest.js", "Django", "Laravel"]
+    Basic: ["JavaScript", "TypeScript", "C#", "Python", "PHP"]
+    Front-End: ["React.js", "Next.js", "Angular","Vue", "Blazor"]
+    Back-End: ["Node.js", "ASP.NET", ".NET Framework", "Django", "Laravel"]
     CMS: ["Wordpress", "Drupal", "Shopify"]
     Database: ["MySQL", "PostgreSQL", "MongoDB"]
     DevOps: ["AWS", "Docker", "GCP", "Azure", "Kubernetes"]
@@ -30,8 +29,6 @@ technical_background:
     "Full Stack Developer"
     "DevOps Solutions Architect",
   ]
-my development philosophy: ["I can't acclimate with 99.(9)%, Only by sending 100% perfect project my Clients!"]
-2024 Goals: ["Create 10+ Projects and learn at least 5 new Technologies."]
 hobbies: ["Chess", "LEGO building", "Swimming", "Sketching"]
 ```
 <!-- Skills Section -->
@@ -42,8 +39,7 @@ hobbies: ["Chess", "LEGO building", "Swimming", "Sketching"]
 #### ⚒Basic Programming Languages:
 
   <div align="left">
-    <img src="https://skillicons.dev/icons?i=html" title="HTML" />
-    <img src="https://skillicons.dev/icons?i=css" title="CSS" />
+    <img src="https://skillicons.dev/icons?i=csharp" title="C#" />
     <img src="https://skillicons.dev/icons?i=jquery" title="Jquery" />
     <img src="https://skillicons.dev/icons?i=js" title="Javascript" />
     <img src="https://skillicons.dev/icons?i=ts" title="Typescript" />
