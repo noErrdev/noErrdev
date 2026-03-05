@@ -39,7 +39,7 @@ hobbies: ["Chess", "LEGO building", "Swimming", "Sketching"]
 #### ⚒Basic Programming Languages:
 
   <div align="left">
-    <img src="https://skillicons.dev/icons?i=csharp" title="C#" />
+    <img src="https://skillicons.dev/icons?i=cs" title="C#" />
     <img src="https://skillicons.dev/icons?i=jquery" title="Jquery" />
     <img src="https://skillicons.dev/icons?i=js" title="Javascript" />
     <img src="https://skillicons.dev/icons?i=ts" title="Typescript" />
@@ -47,22 +47,16 @@ hobbies: ["Chess", "LEGO building", "Swimming", "Sketching"]
     <img src="https://skillicons.dev/icons?i=python" title="Python" />
   </div>
 
-#### 🛒Frameworks and Skills:
+#### 🛒Frameworks:
 
   <div align="left">      
-     <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap"/>
-    <img src="https://skillicons.dev/icons?i=tailwind" title="TailwindCSS"/>
-    <img src="https://skillicons.dev/icons?i=react" title="React"/>
-    <img src="https://skillicons.dev/icons?i=redux" title="Redux"/>
-    <img src="https://skillicons.dev/icons?i=nextjs" title="Next.js"/>
-    <img src="https://skillicons.dev/icons?i=vue" title="Vue.js"/>
-    <img src="https://skillicons.dev/icons?i=nuxtjs" title="Nuxt.js"/>
+    <img src="https://skillicons.dev/icons?i=dotnet" title="DotNet"/>
     <img src="https://skillicons.dev/icons?i=angular" title="Angular.js"/>
+    <img src="https://skillicons.dev/icons?i=react" title="React"/>
+    <img src="https://skillicons.dev/icons?i=nextjs" title="Next.js"/>
     <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js"/>
-    <img src="https://skillicons.dev/icons?i=express" title="Express.js"/>
     <img src="https://skillicons.dev/icons?i=laravel" title="Laravel"/>
     <img src="https://skillicons.dev/icons?i=django" title="Django"/>
-    <img src="https://skillicons.dev/icons?i=figma" title="Figma"/>
     <img src="https://skillicons.dev/icons?i=webflow" title="Webflow"/>
     <img src="https://skillicons.dev/icons?i=wordpress" title="Wordpress"/>
   </div>
@@ -78,14 +72,10 @@ hobbies: ["Chess", "LEGO building", "Swimming", "Sketching"]
     <img src="https://skillicons.dev/icons?i=supabase" title="Supabase"/>
     <img src="https://skillicons.dev/icons?i=docker" title="Docker"/>
     <img src="https://skillicons.dev/icons?i=kubernetes" title="Kubernetes"/>
+    <img src="https://skillicons.dev/icons?i=azure" title="Azure Platform"/>
     <img src="https://skillicons.dev/icons?i=aws" title="Amazon Web Service"/>
     <img src="https://skillicons.dev/icons?i=gcp" title="Google Cloud Platform"/>
-    <img src="https://skillicons.dev/icons?i=azure" title="Azure Platform"/>
-    <img src="https://skillicons.dev/icons?i=cloudflare" title="Cloudflare"/>
-    <img src="https://skillicons.dev/icons?i=heroku" title="Heroku"/>
-    <img src="https://skillicons.dev/icons?i=vercel" title="Vercel"/>
-    <img src="https://skillicons.dev/icons?i=github" title="Github"/>
-    <img src="https://skillicons.dev/icons?i=postman" title="Postman"/>
+    <img src="https://skillicons.dev/icons?i=gitlab" title="GitLab"/>
   </div>
   
 #### 🎨Interests:
