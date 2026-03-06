@@ -5,24 +5,25 @@
 
   ### Welcome to my Git :heart:
 </h1>
-<p>Over 10 years of experience as a software engineer, my goal is to become a valuable contributor to Github.</p>
+<p>Over 10 years of experience as AI/ML tailored software engineer, my goal is to become a valuable contributor to Github.</p>
 
 ```yaml
 
-current_job: Full Stack Developer
+current_job: Software Developer
 education:
   [
     "Bachelor's in Computer Science",
   ]
 technical_skills:
   [
-    Basic: ["JavaScript", "TypeScript", "C#", "Python", "PHP"]
+    Basic: ["JavaScript", "TypeScript", "C#", "Python", "Go", "PHP"]
     Front-End: ["React.js", "Next.js", "Angular","Vue", "Blazor"]
-    Back-End: ["Node.js", "ASP.NET", ".NET Framework", "Django", "Laravel"]
+    AI integration: ["GenAI&OpenAI API", "NLP", "Langchain" ,"VectorDB", "ElasticSearch", "PyTorch", "Tensorflow"]
+    Back-End: ["Node.js", "ASP.NET", ".NET Framework", "Django", "Laravel", "FastAPI"]
     CMS: ["Wordpress", "Drupal", "Shopify"]
-    Database: ["MySQL", "PostgreSQL", "MongoDB"]
-    DevOps: ["AWS", "Docker", "GCP", "Azure", "Kubernetes"]
-    Tools: ["JIRA", "Trello", "Slack"]
+    Database: ["Microsoft SQL Server", "MySQL", "PostgreSQL", "MongoDB", "Redis"]
+    Cloud&DevOps: ["AWS", "Docker", "GCP", "Azure", "Kubernetes" ,"Terraform" "CI/CD"]
+    Methodologies: ["Agile", "Microservices", "Slack"]
   ]
 technical_background:
   [
