@@ -27,7 +27,8 @@ technical_skills:
   ]
 technical_background:
   [
-    "Full Stack Developer"
+    "AI/ML Engineer",
+    "Full Stack Engineer",
     "DevOps Solutions Architect",
   ]
 hobbies: ["Chess", "LEGO building", "Swimming", "Sketching"]
