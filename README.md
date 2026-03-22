@@ -5,7 +5,7 @@
 
   ### Welcome to my Git :heart:
 </h1>
-<p>Over 10 years of experience as AI/ML tailored software engineer, my goal is to become a valuable contributor to Github.</p>
+<p>Over 10 years of experience as AI/ML tailored software engineer</p>
 
 ```yaml
 
@@ -55,11 +55,9 @@ hobbies: ["Chess", "LEGO building", "Swimming", "Sketching"]
     <img src="https://skillicons.dev/icons?i=dotnet" title="DotNet"/>
     <img src="https://skillicons.dev/icons?i=angular" title="Angular.js"/>
     <img src="https://skillicons.dev/icons?i=react" title="React"/>
-    <img src="https://skillicons.dev/icons?i=nextjs" title="Next.js"/>
     <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js"/>
     <img src="https://skillicons.dev/icons?i=laravel" title="Laravel"/>
     <img src="https://skillicons.dev/icons?i=django" title="Django"/>
-    <img src="https://skillicons.dev/icons?i=webflow" title="Webflow"/>
     <img src="https://skillicons.dev/icons?i=wordpress" title="Wordpress"/>
   </div>
   
@@ -69,15 +67,10 @@ hobbies: ["Chess", "LEGO building", "Swimming", "Sketching"]
     <img src="https://skillicons.dev/icons?i=mysql" title="MySQL"/>
     <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL"/>
     <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB"/>
-    <img src="https://skillicons.dev/icons?i=graphql" title="GraphQL"/>
-    <img src="https://skillicons.dev/icons?i=firebase" title="Firebase"/>
-    <img src="https://skillicons.dev/icons?i=supabase" title="Supabase"/>
     <img src="https://skillicons.dev/icons?i=docker" title="Docker"/>
     <img src="https://skillicons.dev/icons?i=kubernetes" title="Kubernetes"/>
     <img src="https://skillicons.dev/icons?i=azure" title="Azure Platform"/>
     <img src="https://skillicons.dev/icons?i=aws" title="Amazon Web Service"/>
-    <img src="https://skillicons.dev/icons?i=gcp" title="Google Cloud Platform"/>
-    <img src="https://skillicons.dev/icons?i=gitlab" title="GitLab"/>
   </div>
   
 #### 🎨Interests:
